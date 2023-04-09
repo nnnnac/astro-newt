@@ -1,5 +1,5 @@
 {
-  "name": "shaky-spectrum",
+  "name": "astro-newt",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,6 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.0.17"
+    "astro": "^2.0.17",
+    "newt-client-js": "^3.2.4"
+  },
+  "devDependencies": {
+    "sass": "^1.61.0"
   }
 }
